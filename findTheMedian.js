@@ -23,4 +23,3 @@ function findTheMedian(arr){
 findTheMedian([2,4,7]);
 
 findTheMedian([22,25,45,42,23,54,543,433, 322, 322])
-
